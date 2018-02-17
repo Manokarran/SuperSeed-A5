@@ -1,6 +1,24 @@
-# Test02
+# Super Seed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
+
+##Author
+Manokaran Chidambaram
+Solution Designer
+Linked In : www.linkedin.com/in/manokaran-chidambaram-0bb79733
+
+# Description
+For any project, there are few stpes to be configured first to start with which can be time consuming. To avoid the repetitive work, I tried to incorporate basic structure. I am using jasonplaceholder sample API; this is a test API, so it actually doesnt perform any action. This test API is used to demonstrate how HTTPClinet works.
+
+1. HTTP CLient was introduced from Angular 4.3 onwards, it has more interesting functionalities compared to previous HTTP module. This seed project as HTTP Clint implementation
+2. This seed project has Exception Handing Layer
+3. It has toast control to display messages
+4. It uses Bootstrap 4 module (ngb) and which inturn uses Bootstratp styles version 4
+5. I use INTERCEPTORS for Logs and authentication which traces all HTTP requests from the application
+
+Note: This is not a complete project, its built to help any developers who is starting a new Angular application
+I am actively working on this prototype to include more components like eCharts, ag-grid, ngPrime Components to have a fully functional project template.
+
 
 ## Development server
 
