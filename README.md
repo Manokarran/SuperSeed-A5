@@ -4,11 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Author
 # 
-Manokaran Chidambaram
-# 
+Manokaran Chidambaram,
 Solution Designer
 # 
-Linked In : www.linkedin.com/in/manokaran-chidambaram-0bb79733
+[Linked In](www.linkedin.com/in/manokaran-chidambaram-0bb79733)
 
 # Description
 For any project, there are few stpes to be configured first to start with which can be time consuming. To avoid the repetitive work, I tried to incorporate basic structure. I am using jasonplaceholder sample API; this is a test API, so it actually doesnt perform any action. This test API is used to demonstrate how HTTPClinet works.
